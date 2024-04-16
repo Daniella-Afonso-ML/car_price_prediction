@@ -53,8 +53,8 @@ streamlit run app.py
 - requirements.txt : pre-requiste libraries for the project
 - models/ : trained model, scaler and one hot encoding objects
 - data/ : The source data and data dictionary.
-- setup.sh : Setup file for Heroku.
-- Procfile : To trigger the app in Heroku.
+- setup.sh : Setup file for streamlit.
+- Procfile : To trigger the app in streamlit.
 
 
 ## Acknowledgements
